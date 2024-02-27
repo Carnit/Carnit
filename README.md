@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Carnit
 - 👀 I’m interested in full stack and data science
 - 🌱 I’m currently learning python ,c and c++
-- 💞️ I’m looking to collaborate on projects(currently taking no collaborations)
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me (email me at devcarnit@gmail.com)
 
 <!---
