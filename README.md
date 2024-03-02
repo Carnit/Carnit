@@ -21,9 +21,6 @@ Welcome to my GitHub profile! I'm passionate about full stack development and da
 ## GitHub Stats
 ![Carnit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Carnit&show_icons=true&theme=radical)
 
-## Contribution Graph
-![Carnit's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Carnit&theme=react-dark)
-
 Feel free to explore my repositories and reach out if you have any questions, suggestions, or opportunities for collaboration!
 
 <!---
