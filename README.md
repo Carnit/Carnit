@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm passionate about full stack development and da
 
 ## About Me
 - 👀 I'm interested in full stack development and data science.
-- 🌱 I’m currently learning Python, C, and C++.
+- 🌱 I’m currently learning Python , JavaScript.
 - 💼 I'm open to collaborating on exciting projects.
 - 📫 You can reach me via email at [devcarnit@gmail.com](mailto:devcarnit@gmail.com).
 
@@ -13,8 +13,8 @@ Welcome to my GitHub profile! I'm passionate about full stack development and da
 - 🐦 Follow me on [Twitter](https://twitter.com/Carnit_10)
 
 ## Skills
-- **Languages:** Python, C, C++
-- **Frameworks/Libraries:** Django, Flask, Pandas, NumPy
+- **Languages:** Python, javaScript
+- **Frameworks/Libraries:** Django, Flask, Pandas, NumPy ,node
 - **Databases:** MySQL, MongoDB
 - **Tools/Technologies:** Git, Docker, TensorFlow, scikit-learn
 
