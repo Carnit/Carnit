@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm passionate about full stack development and da
 - 👀 I'm interested in backend development,devops and data science.
 - 🌱 I’m currently learning Python ,rust , JavaScript,golang.
 - 💼 I'm open to collaborating on exciting projects.
-- 📫 You can reach me via email at [devcarnit@gmail.com](mailto:devcarnit@gmail.com).
+- 📫 You can reach me via email at [devcarnit@gmail.com](mailto:nlesh.barat10.8@gmail.com).
 
 ## Get in Touch
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/nilesh-barat/)
