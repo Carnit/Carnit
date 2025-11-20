@@ -1,10 +1,10 @@
 # Hi there, I'm Carnit! 👋
 
-Welcome to my GitHub profile! I'm passionate about full stack development and data science. Currently, I'm diving deep into Python, C, and C++ to enhance my skills and knowledge.
+Welcome to my GitHub profile! I'm passionate about Back end development and data science. Currently, I'm diving deep into Python, C, and C++ to enhance my skills and knowledge.
 
 ## About Me
 - 👀 I'm interested in backend development,devops and data science.
-- 🌱 I’m currently learning Python ,rust , JavaScript,golang.
+- 🌱 I’m currently learning Python ,Java , JavaScript,golang.
 - 💼 I'm open to collaborating on exciting projects.
 - 📫 You can reach me via email at [nlesh.barat10.8@gmail.com](mailto:nlesh.barat10.8@gmail.com).
 
@@ -13,10 +13,12 @@ Welcome to my GitHub profile! I'm passionate about full stack development and da
 - 🐦 Follow me on [Twitter](https://twitter.com/Carnit_10)
 
 ## Skills
-- **Languages:** Python, javaScript ,Rust ,Golang
-- **Frameworks/Libraries:** Django, Flask, Pandas, NumPy ,node
-- **Databases:** PostgreSQL, MongoDB
-- **Tools/Technologies:** Git, Docker, TensorFlow, scikit-learn
+- **Languages**: Python, JavaScript, Java,Go
+- **AI/ML**: TensorFlow, Scikit-learn, LangChain, RAG, NLTK
+- **Backend & Databases**: FastAPI, Django, PostgreSQL, MongoDB, SQL
+- **Frontend**: ReactJS, HTML, CSS
+- **DevOps & Tools**: Docker, Kubernetes, Git, CI/CD, Linux, Agile Methodologies , GCP
+
 
 Feel free to explore my repositories and reach out if you have any questions, suggestions, or opportunities for collaboration!
 
