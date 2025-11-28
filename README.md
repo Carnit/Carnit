@@ -44,7 +44,7 @@ Welcome to my GitHub profile! I'm a passionate **Backend Developer** and **Data 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Carnit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="Carnit's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Carnit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="Carnit's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carnit&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180" alt="Carnit's Top Languages" />
 </div>
 
