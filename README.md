@@ -5,9 +5,7 @@ I specialize in building scalable APIs, optimizing database performance, and dep
 
 - 🎓 **Education:** Final Year B.Tech CSE + BS Data Science (IIT Madras)
 - 💻 **Current Focus:** High-Performance Systems (FastAPI, Redis, Docker)
-- 🔭 **Working on:**
-1. [Job Application Tracker](https://github.com/Carnit/Personal-Job-Application-Tracker) - A microservice-based tracker with Redis caching.
-2. [Plant disease dectection](https://github.com/Carnit/Carnit) - A Tensorflow based ML pipeline 
+- 🔭 **Working on:** [Job Application Tracker](https://github.com/Carnit/Personal-Job-Application-Tracker) - A microservice-based tracker with Redis caching.
 
 ### 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
